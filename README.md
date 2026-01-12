@@ -19,7 +19,10 @@ I design intuitive, expressive digital experiences — from **mobile apps** and 
 - UI/UX design for websites and systems  
 - Website design using HTML & CSS  
 - Business Analysis & Funding Readiness Documents  
-- As-Is, Growth Plan, Strategy & Risk Reports  
+- As-Is, Growth Plan, Strategy & Risk Reports 
+- **Professional document & report template design**  
+- **Website, UI and presentation templates**  
+- **AI-ready templates for automated report generation** 
 - Visual design & illustration  
 - Adobe Certified (design & digital tools)
 - AI Agents → Custom digital assistants for documentation & workflow automation 
@@ -31,6 +34,7 @@ I design intuitive, expressive digital experiences — from **mobile apps** and 
 - Adobe Suite (Photoshop, Illustrator, InDesign)
 - HTML & CSS
 - Documentation & Report Design
+- Document & Report Template Design
 - AI Tools & Automation
 - Wireframing & Prototyping 
 
