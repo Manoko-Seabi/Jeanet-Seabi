@@ -1,5 +1,5 @@
-# Hi, I'm Jeanet 👋
-🎨 **UI/UX Designer · Illustrator · AI Agent Creator**
+# Hi, I'm Jeanet Seabi 👋
+🎨 **UI/UX Designer • Business Analyst • Digital Documents & AI Automation Specialist**
 
 Johannesburg, South Africa  
 [🌐 Portfolio](https://your-portfolio-link.com)  |  [💼 LinkedIn](https://linkedin.com/in/jeanetseabi)  |  [📸 Instagram @neko_des1gns](https://instagram.com/neko_des1gns)
@@ -16,18 +16,23 @@ I design intuitive, expressive digital experiences — from **mobile apps** and 
 ---
 
 ## 💡 What I Do
-- UI/UX Design → Wireframes, prototypes, user flows  
-- Website Design → Editing & styling sites with HTML/CSS in VS Code  
-- Illustration → Manga-inspired & conceptual art  
-- Brand Identity → Logos, color systems, design guides  
-- AI Agents → Custom digital assistants for documentation & workflow automation (e.g., **TEKSA**)  
+- UI/UX design for websites and systems  
+- Website design using HTML & CSS  
+- Business Analysis & Funding Readiness Documents  
+- As-Is, Growth Plan, Strategy & Risk Reports  
+- Visual design & illustration  
+- Adobe Certified (design & digital tools)
+- AI Agents → Custom digital assistants for documentation & workflow automation 
 
 ---
 
 ## 🧰 Tools & Skills
-**Design:** Figma · Canva · Adobe XD · Illustrator  
-**Development:** HTML · CSS · Visual Studio Code · Git  
-**AI & Automation:** Prompt Design · Workflow Systems · n8n · Chatbot Logic  
+- UI/UX Design (Figma, Adobe XD)
+- Adobe Suite (Photoshop, Illustrator, InDesign)
+- HTML & CSS
+- Documentation & Report Design
+- AI Tools & Automation
+- Wireframing & Prototyping 
 
 ---
 
@@ -47,13 +52,30 @@ I design intuitive, expressive digital experiences — from **mobile apps** and 
 
 ---
 
+## 📄 Business Analysis Documents I Create
+- Business Plans
+- As-Is Reports
+- Growth Plans
+- Company Strategy
+- Market Analysis
+- To-Be & Gap Analysis
+- Strategic Roadmaps
+- Financial & Credit Reports
+
+---
+
+## 🧠 Focus Areas
+- User-centred design
+- Clean, professional layouts
+- Clear information architecture
+- Investor-ready documentation
+- Automation of reporting using AI
+
+---
+
 ## 📫 Let’s Connect
 - 📧 **Email:** janetseabi@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/jeanetseabi](https://linkedin.com/in/jeanetseabi)  
 - 🌐 **Portfolio:** https://your-portfolio-link.com  
 
 ---
-
-<p align="center">
-  <img src="./images/profile-banner.png" alt="Jeanet Seabi banner" width="600"/>
-</p>
